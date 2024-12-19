@@ -1,0 +1,67 @@
+.DS_Store
+
+application/cache/*
+!application/cache/index.html
+
+application/logs/*
+!application/logs/index.html
+
+!application/*/.htaccess
+
+composer.lock
+tests/mocks/database/ci_test.sqlite
+
+user_guide_src/build/*
+user_guide_src/cilexer/build/*
+user_guide_src/cilexer/dist/*
+user_guide_src/cilexer/pycilexer.egg-info/*
+/vendor/
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/tests/tests/
+/tests/results/
+
+# Arquivos do CodeIgniter
+application/config/config.php
+application/config/database.php
+
+# Arquivos de sistema
+.env
+/vendor/
+*.log
+*.cache
+*.bak
+*.swp
+
+# Diretórios de uploads e cache
+writable/uploads/
+writable/cache/
+writable/logs/
+
+# Configurações locais
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Arquivos do Composer
+composer.lock
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Sistema do Windows e Mac
+*.lnk
+.DS_Store
+Thumbs.db
