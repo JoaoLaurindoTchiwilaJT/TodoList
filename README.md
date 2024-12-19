@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-**Task Manager** é uma aplicação simples para gerenciamento de tarefas, desenvolvida utilizando o framework PHP CodeIgniter 3. O objetivo do projeto é permitir que os usuários criem, editem, visualizem e excluam tarefas de forma fácil e eficiente.
+**Todo List** é uma aplicação simples para gerenciamento de tarefas, desenvolvida utilizando o framework PHP CodeIgniter 3. O objetivo do projeto é permitir que os usuários criem, editem, visualizem e excluam tarefas de forma fácil e eficiente.
 
 ## Funcionalidades
 
@@ -24,7 +24,7 @@
 Baixe ou clone o repositório no seu computador:
 
 ```bash
-git clone https://github.com/seu-usuario/task-manager.git
+git clone https://github.com/JoaoLaurindoTchiwilaJT/TodoList.git
 ```
 
 ### 2. Configure o Banco de Dados
